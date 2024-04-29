@@ -19,8 +19,8 @@ write_disk(path = temp_file))
 estprod <- readxl::read_excel(temp_file)
 # Estimate Levinsohn Petrin Estimation of Production Functions Use estprod With (In) R Software
 levinsohn_model<-levinsohn_petrin(data=estprod,var1~var2|var3|var4,exit=~exit,id="id",time="year",bootstrap=TRUE)
-
 summary(levinsohn_model)
+
 # Levinsohn Petrin Estimation of Production Functions Use estprod With (In) R Software
 # Olah Data Semarang
 # WhatsApp : +6285227746673
