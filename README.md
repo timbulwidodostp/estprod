@@ -1,6 +1,8 @@
 # estprod
 Levinsohn Petrin Estimation of Production Functions Use estprod With (In) R Software
 
+https://www.youtube.com/watch?v=PfK6ufUvDY4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
